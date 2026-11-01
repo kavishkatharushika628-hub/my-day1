@@ -1,0 +1,6 @@
+{
+  "name": "My Day",
+  "description": "A clean, beautiful daily planner with local tasks, focus and break timers, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
